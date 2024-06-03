@@ -11,6 +11,5 @@
 4. [Basic Weather App](https://github.com/karthikeyan-2005/Oasis-Infobyte/blob/main/Oasis%20Infobyte/Basic%20Weather%20App/Basic%20Weather%20App.py)
 
 5. **Chat Application**
-   
    - [Server](https://github.com/karthikeyan-2005/Oasis-Infobyte/blob/main/Oasis%20Infobyte/Chat%20Application/Server.py)
    - [Client](https://github.com/karthikeyan-2005/Oasis-Infobyte/blob/main/Oasis%20Infobyte/Chat%20Application/Client.py)
